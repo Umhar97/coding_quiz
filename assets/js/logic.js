@@ -9,3 +9,5 @@ let submitButton = document.getElementById("submit");
 let startButton = document.getElementById("start");
 let initialsElement = document.getElementById("initials");
 let feedbackElement = document.getElementById("feedback");
+
+let sxfCorrect = new Audio("assets/sfx/correct.wav");
