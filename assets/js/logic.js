@@ -45,4 +45,4 @@ startButton.addEventListener("click", startQuiz);
 
 submitButton.addEventListener("click", saveHighScore);
 
-initialElement.addEventListener("keyup", checkForEnter);
+initialsElement.addEventListener("keyup", checkForEnter);
