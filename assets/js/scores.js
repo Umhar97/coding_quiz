@@ -7,4 +7,4 @@ function clearHighScores(){
 }
 
 let clearButton = document.getElementById("clear");
-clearButton.addEventListener("click", clearHighScores)
+clearButton.addEventListener("click", clearHighScores);
