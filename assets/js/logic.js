@@ -42,3 +42,5 @@ function checkForEnter() {
 }
 
 startButton.addEventListener("click", startQuiz);
+
+submitButton.addEventListener("click", saveHighScore);
