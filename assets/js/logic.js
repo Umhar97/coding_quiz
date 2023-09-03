@@ -22,8 +22,8 @@ function questionClick() {
 }
 
 function startQuiz() {
-let startScreenElement = document.getElementById ("start-screen");
-    startScreenElement.setAttribute("class", "hide" );
+    let startScreenElement = document.getElementById("start-screen");
+    startScreenElement.setAttribute("class", "hide");
 }
 
 function quizEnd() {
