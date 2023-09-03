@@ -41,3 +41,4 @@ function checkForEnter() {
 
 }
 
+startButton.addEventListener("click", startQuiz);
