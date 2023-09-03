@@ -12,3 +12,32 @@ let feedbackElement = document.getElementById("feedback");
 
 let sxfCorrect = new Audio("assets/sfx/correct.wav");
 
+
+function getQuestion() {
+
+}
+
+function questionClick() {
+
+}
+
+function startQuiz() {
+
+}
+
+function quizEnd() {
+
+}
+
+function clockTick() {
+
+}
+
+function saveHighScore() {
+
+}
+
+function checkForEnter() {
+
+}
+
